@@ -1,0 +1,23 @@
+footer {  
+    text-align: center;
+  }
+  
+  footer p {
+    font-family: "Poppins";
+    margin-bottom: 0;
+  }
+  
+  #contact {
+    font-size: 40px;
+    filter: drop-shadow(10px 10px 4px #333333);
+    margin-bottom: 0;
+    padding-top: 30px;
+    border-top: solid 3px;
+    border-image: radial-gradient(circle at 0% -25%,#FF8947 0%,#FF8354 0,#DA2C94 42%,#3E13A5 110%) 1;
+  }
+  #bottom{
+    margin-top: 60px;
+    padding-top: 15px;
+    border-top: solid 3px;
+    border-image: radial-gradient(circle at 0% -25%,#FF8947 0%,#FF8354 0,#DA2C94 42%,#3E13A5 110%) 1;
+  }
